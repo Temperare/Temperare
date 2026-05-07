@@ -8,8 +8,6 @@
 
 <div align="center">
 
-# 🍳 TEMPERARE
-
 ### Equipamentos para Cozinha Industrial de Alta Performance
 
 *Temperare — do latim: regular, ajustar, equilibrar com precisão.*
